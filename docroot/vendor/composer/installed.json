@@ -4368,18 +4368,6 @@
         }
     },
     {
-        "name": "drupal/paladin",
-        "version": "1.0",
-        "version_normalized": "1.0.0.0",
-        "source": {
-            "type": "git",
-            "url": "git@git.ifsight.net:proj/contrib/if-paladin-theme.git",
-            "reference": "8.x-1.0"
-        },
-        "type": "drupal-custom-theme",
-        "installation-source": "source"
-    },
-    {
         "name": "drupal/paragraphs",
         "version": "1.10.0",
         "version_normalized": "1.10.0.0",

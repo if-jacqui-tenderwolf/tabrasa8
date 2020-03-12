@@ -57,7 +57,6 @@
         "drupal/elasticsearch_connector": "^6.0@alpha",
         "drupal/search_api": "^1.12",
         "drupal/adminimal_theme": "^1.4",
-        "drupal/paladin": "^1.0",
         "drupal/config_split": "^1.4",
         "drupal/environment_indicator": "^3.6",
         "drupal/purge": "^3.0@beta"

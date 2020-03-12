@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "46500696c8d72a410cb1310e25b11f68",
+    "content-hash": "9244147bfd54494687065e3ddc56046a",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -4249,16 +4249,6 @@
                 "source": "http://cgit.drupalcode.org/metatag",
                 "issues": "http://drupal.org/project/issues/metatag"
             }
-        },
-        {
-            "name": "drupal/paladin",
-            "version": "1.0",
-            "source": {
-                "type": "git",
-                "url": "git@git.ifsight.net:proj/contrib/if-paladin-theme.git",
-                "reference": "8.x-1.0"
-            },
-            "type": "drupal-custom-theme"
         },
         {
             "name": "drupal/paragraphs",
