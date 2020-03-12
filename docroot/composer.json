@@ -9,7 +9,6 @@
         "cweagans/composer-patches": "^1.6",
         "drupal/core": "^8.8",
         "drupal/admin_toolbar": "^2.0",
-        "drupal/advagg": "^3.0",
         "drupal/allowed_formats": "^1.1",
         "drupal/better_exposed_filters": "^3.0@alpha",
         "drupal/block_field": "^1.0@alpha",
