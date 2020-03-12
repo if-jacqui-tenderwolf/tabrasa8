@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9244147bfd54494687065e3ddc56046a",
+    "content-hash": "acd8d3fd18026c4605253e011746a9e5",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -6021,6 +6021,35 @@
             ],
             "abandoned": true,
             "time": "2014-10-12T19:18:40+00:00"
+        },
+        {
+            "name": "ifsight/if_admin",
+            "version": "v0.1",
+            "source": {
+                "type": "git",
+                "url": "https://git.ifsight.net/proj/contrib/if-admin-theme",
+                "reference": "2ff749ba5d16a70bfe3bc989dfbc27efd327aef5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://if-satis.s3.us-east-2.amazonaws.com/dist/ifsight/if_admin/ifsight-if_admin-v0.1-006d04.zip",
+                "reference": "2ff749ba5d16a70bfe3bc989dfbc27efd327aef5",
+                "shasum": "b961672eb761ef2f54de5ec8680d27dcff10eece"
+            },
+            "type": "drupal-theme",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "description": "IF Admin is an enhanced Drupal admin theme",
+            "homepage": "http://git.ifsight.com/proj/contrib/if-admin-theme",
+            "keywords": [
+                "Drupal"
+            ],
+            "support": {
+                "issues": "http://git.ifsight.net/proj/contrib/if-admin-theme/issues",
+                "source": "http://git.ifsight.com/proj/contrib/if-admin-theme"
+            },
+            "time": "2020-02-26T00:38:53+00:00"
         },
         {
             "name": "instaclick/php-webdriver",

@@ -59,7 +59,8 @@
         "drupal/adminimal_theme": "^1.4",
         "drupal/config_split": "^1.4",
         "drupal/environment_indicator": "^3.6",
-        "drupal/purge": "^3.0@beta"
+        "drupal/purge": "^3.0@beta",
+        "ifsight/if_admin": "^0.1.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -102,6 +103,10 @@
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
+        },
+        {
+            "type": "composer",
+            "url": "https://if-satis.s3.us-east-2.amazonaws.com"
         },
         {
             "type": "package",

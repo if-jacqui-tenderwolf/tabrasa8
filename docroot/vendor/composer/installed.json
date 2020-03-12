@@ -6196,6 +6196,37 @@
         "abandoned": true
     },
     {
+        "name": "ifsight/if_admin",
+        "version": "v0.1",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://git.ifsight.net/proj/contrib/if-admin-theme",
+            "reference": "2ff749ba5d16a70bfe3bc989dfbc27efd327aef5"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://if-satis.s3.us-east-2.amazonaws.com/dist/ifsight/if_admin/ifsight-if_admin-v0.1-006d04.zip",
+            "reference": "2ff749ba5d16a70bfe3bc989dfbc27efd327aef5",
+            "shasum": "b961672eb761ef2f54de5ec8680d27dcff10eece"
+        },
+        "time": "2020-02-26T00:38:53+00:00",
+        "type": "drupal-theme",
+        "installation-source": "dist",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "description": "IF Admin is an enhanced Drupal admin theme",
+        "homepage": "http://git.ifsight.com/proj/contrib/if-admin-theme",
+        "keywords": [
+            "Drupal"
+        ],
+        "support": {
+            "issues": "http://git.ifsight.net/proj/contrib/if-admin-theme/issues",
+            "source": "http://git.ifsight.com/proj/contrib/if-admin-theme"
+        }
+    },
+    {
         "name": "instaclick/php-webdriver",
         "version": "1.4.5",
         "version_normalized": "1.4.5.0",
